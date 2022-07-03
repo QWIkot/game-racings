@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "Car"; ObjectID = "3sL-el-mhK"; */
+"3sL-el-mhK.text" = "Car";
+
+/* Class = "UIButton"; normalTitle = "Records"; ObjectID = "4OI-Mq-t9U"; */
+"4OI-Mq-t9U.normalTitle" = "Records";
+
+/* Class = "UILabel"; text = "Recordss"; ObjectID = "5bZ-bZ-qTK"; */
+"5bZ-bZ-qTK.text" = "Recordss";
+
+/* Class = "UILabel"; text = "Obstacle"; ObjectID = "GOs-Ej-jkT"; */
+"GOs-Ej-jkT.text" = "Obstacle";
+
+/* Class = "UILabel"; text = "NFS 10"; ObjectID = "KXj-We-sgd"; */
+"KXj-We-sgd.text" = "NFS 10";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Oao-p8-PgM"; */
+"Oao-p8-PgM.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PqD-UM-2gY"; */
+"PqD-UM-2gY.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PxX-dv-8op"; */
+"PxX-dv-8op.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "Q6v-N0-QgD"; */
+"Q6v-N0-QgD.normalTitle" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "SZj-5w-8fL"; */
+"SZj-5w-8fL.normalTitle" = "Settings";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vvc-KA-Qfi"; */
+"Vvc-KA-Qfi.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "WoF-1A-teW"; */
+"WoF-1A-teW.normalTitle" = "<";
+
+/* Class = "UITextField"; text = "USERNAME"; ObjectID = "XYA-KI-G7Y"; */
+"XYA-KI-G7Y.text" = "USERNAME";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "bPS-Aa-xoc"; */
+"bPS-Aa-xoc.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "h0K-zh-86J"; */
+"h0K-zh-86J.normalTitle" = ">";
+
+/* Class = "UILabel"; text = "Speed"; ObjectID = "kro-hb-Itc"; */
+"kro-hb-Itc.text" = "Speed";
+
+/* Class = "UILabel"; text = "GAME OVER"; ObjectID = "oKH-SE-eN8"; */
+"oKH-SE-eN8.text" = "GAME OVER";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "s7H-Ma-gZE"; */
+"s7H-Ma-gZE.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "wia-Ac-9Md"; */
+"wia-Ac-9Md.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "wqB-2T-OUD"; */
+"wqB-2T-OUD.normalTitle" = "<";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "wsG-kk-ak4"; */
+"wsG-kk-ak4.normalTitle" = ">";
